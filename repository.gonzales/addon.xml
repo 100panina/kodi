@@ -1,11 +1,11 @@
 <extension point="xbmc.addon.repository">
   <info compressed="false">
-    https://raw.githubusercontent.com/gonzales/kodi/main/addons.xml
+    https://raw.githubusercontent.com/100panina/kodi/main/addons.xml
   </info>
   <checksum>
-    https://raw.githubusercontent.com/gonzales/kodi/main/addons.xml.md5
+    https://raw.githubusercontent.com/100panina/kodi/main/addons.xml.md5
   </checksum>
   <datadir zip="true">
-    https://raw.githubusercontent.com/gonzales/kodi/main/zips/
+    https://raw.githubusercontent.com/100panina/kodi/main/zips/
   </datadir>
 </extension>
