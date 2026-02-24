@@ -1,0 +1,8 @@
+<addons>
+  <addon id="plugin.video.EURONEWS"
+         name="EURONEWS"
+         version="1.0.0"
+         provider-name="gonzales">
+    ...
+  </addon>
+</addons>
