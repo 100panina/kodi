@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.EURONEWS" name="EURONEWS" version="1.0" provider-name="GONZALES">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+        <import addon="script.module.beautifulsoup4" version="4.9.3"/>
+        <import addon="script.module.requests" version="1.1.0"/>
+
+    </requires>
+    <extension point="xbmc.python.script" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en_GB">You can watch video on your kodi device with this Plugin. Just you need video url. Send it. It will play soon.</summary>
+        <description lang="en_GB"></description>
+        <language></language>
+        <platform>all</platform>
+        <license>Apache-2.0</license>
+        <forum></forum>
+        <website>GONZALES.wordpress.com</website>
+        <email>100panina@gmail.com</email>
+        <source></source>
+        <news></news>
+        <disclaimer></disclaimer>
+        <assets>
+            <icon>euronews-bulgaria-hd.png</icon>
+            <fanart>euronews-bulgaria-hd.png</fanart>
+        </assets>
+    </extension>
+</addon>
